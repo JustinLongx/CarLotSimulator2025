@@ -3,16 +3,16 @@
   "WorkspaceRootPath": "C:\\Users\\justi\\OneDrive\\Desktop\\2024 C#\\TrueCoders 2024\\Repo 2024\\CarLotSimulator2025\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{DC65C7D3-487E-4238-9AAD-292BD20248D0}|CarLotSimulator2025.csproj|c:\\users\\justi\\onedrive\\desktop\\2024 c#\\truecoders 2024\\repo 2024\\carlotsimulator2025\\car.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{DC65C7D3-487E-4238-9AAD-292BD20248D0}|CarLotSimulator2025.csproj|solutionrelative:car.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{DC65C7D3-487E-4238-9AAD-292BD20248D0}|CarLotSimulator2025.csproj|c:\\users\\justi\\onedrive\\desktop\\2024 c#\\truecoders 2024\\repo 2024\\carlotsimulator2025\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DC65C7D3-487E-4238-9AAD-292BD20248D0}|CarLotSimulator2025.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{DC65C7D3-487E-4238-9AAD-292BD20248D0}|CarLotSimulator2025.csproj|c:\\users\\justi\\onedrive\\desktop\\2024 c#\\truecoders 2024\\repo 2024\\carlotsimulator2025\\carlot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{DC65C7D3-487E-4238-9AAD-292BD20248D0}|CarLotSimulator2025.csproj|solutionrelative:carlot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{DC65C7D3-487E-4238-9AAD-292BD20248D0}|CarLotSimulator2025.csproj|c:\\users\\justi\\onedrive\\desktop\\2024 c#\\truecoders 2024\\repo 2024\\carlotsimulator2025\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{DC65C7D3-487E-4238-9AAD-292BD20248D0}|CarLotSimulator2025.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{DC65C7D3-487E-4238-9AAD-292BD20248D0}|CarLotSimulator2025.csproj|c:\\users\\justi\\onedrive\\desktop\\2024 c#\\truecoders 2024\\repo 2024\\carlotsimulator2025\\car.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DC65C7D3-487E-4238-9AAD-292BD20248D0}|CarLotSimulator2025.csproj|solutionrelative:car.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -22,30 +22,30 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 0,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 0,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\justi\\OneDrive\\Desktop\\2024 C#\\TrueCoders 2024\\Repo 2024\\CarLotSimulator2025\\Program.cs",
               "RelativeDocumentMoniker": "Program.cs",
-              "ToolTip": "C:\\Users\\justi\\OneDrive\\Desktop\\2024 C#\\TrueCoders 2024\\Repo 2024\\CarLotSimulator2025\\Program.cs",
-              "RelativeToolTip": "Program.cs",
-              "ViewState": "AgIAAD0AAAAAAAAAAAAgwEEAAAAfAAAAAAAAAA==",
+              "ToolTip": "C:\\Users\\justi\\OneDrive\\Desktop\\2024 C#\\TrueCoders 2024\\Repo 2024\\CarLotSimulator2025\\Program.cs*",
+              "RelativeToolTip": "Program.cs*",
+              "ViewState": "AgIAAEAAAAAAAAAAAAAgwFMAAAAeAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-01-01T20:01:30.89Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 2,
               "Title": "Car.cs",
               "DocumentMoniker": "C:\\Users\\justi\\OneDrive\\Desktop\\2024 C#\\TrueCoders 2024\\Repo 2024\\CarLotSimulator2025\\Car.cs",
               "RelativeDocumentMoniker": "Car.cs",
               "ToolTip": "C:\\Users\\justi\\OneDrive\\Desktop\\2024 C#\\TrueCoders 2024\\Repo 2024\\CarLotSimulator2025\\Car.cs",
               "RelativeToolTip": "Car.cs",
-              "ViewState": "AgIAAAYAAAAAAAAAAAAAACwAAAAlAAAAAAAAAA==",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAzwCwAAAAlAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-01-01T20:29:29.638Z",
               "EditorCaption": ""
@@ -58,7 +58,7 @@
               "RelativeDocumentMoniker": "CarLot.cs",
               "ToolTip": "C:\\Users\\justi\\OneDrive\\Desktop\\2024 C#\\TrueCoders 2024\\Repo 2024\\CarLotSimulator2025\\CarLot.cs",
               "RelativeToolTip": "CarLot.cs",
-              "ViewState": "AgIAAA4AAAAAAAAAAAAQwB8AAAAmAAAAAAAAAA==",
+              "ViewState": "AgIAAA4AAAAAAAAAAAAQwCAAAAAOAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-01-01T21:08:30.93Z",
               "EditorCaption": ""
