@@ -36,7 +36,9 @@ namespace CarLotSimulator2025
 
         //Constructor with parameters
         public Car(string make, string model, int year, string engineNoise, string honkNoise, bool isDriveable) 
-        { 
+        {
+            CarLot._numberOfCars++; //increment cars
+
             Make = make; 
             Model = model; 
             Year = year; 
@@ -47,6 +49,9 @@ namespace CarLotSimulator2025
         }
 
         //Parameterless constructor
-        public Car() { }
+        public Car() 
+        {
+            CarLot._numberOfCars++; //increment cars
+        }
     }
 }

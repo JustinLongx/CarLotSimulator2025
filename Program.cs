@@ -9,12 +9,18 @@ namespace CarLotSimulator2025
             //TODO
             CarLot carLot = new CarLot();
 
-
+            Console.WriteLine($"cars created: {CarLot._numberOfCars}"); //seeing the number of cars created
 
             //Now that the Car class is created we can instanciate 3 new cars
             Car Car1 = new Car();
+            Console.WriteLine($"cars created: {CarLot._numberOfCars}"); //seeing the number of cars created
+
             Car Car2 = new Car();
+            Console.WriteLine($"cars created: {CarLot._numberOfCars}"); //seeing the number of cars created
+
             Car Car3 = new Car();
+            Console.WriteLine($"cars created: {CarLot._numberOfCars}"); //seeing the number of cars created
+            
             //Set the properties for each of the cars
             Car1.Year = 2025;
             Car1.Make = "Toyota";
@@ -23,6 +29,8 @@ namespace CarLotSimulator2025
             Car1.HonkNoise = "Beep, Beep";
             Car1.IsDrivable = true;
 
+            
+            
             Car2.Year = 2020;
             Car2.Make = "Dodge";
             Car2.Model = "2500";
@@ -66,6 +74,8 @@ namespace CarLotSimulator2025
             myCar2.Year = 2050;
 
             Car myCar3 = new Car("VW", "Beetle", 1969, "Vreem", "Beeeeep", true);
+
+            Console.WriteLine($"cars created: {CarLot._numberOfCars}"); //seeing the number of cars created
 
 
 

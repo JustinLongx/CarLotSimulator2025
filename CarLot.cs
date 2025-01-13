@@ -9,6 +9,8 @@ namespace CarLotSimulator2025
 {
     public class CarLot
     {
+        public static int _numberOfCars;
+
         //It should have at least one property: a List of cars
 
         // List to store cars
